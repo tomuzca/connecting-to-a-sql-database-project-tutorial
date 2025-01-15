@@ -1,8 +1,8 @@
 # Base ----------------------------------------
-sqlalchemy==1.4.37
-pymysql==1.0.2
-pandas==1.4.2
-python-dotenv==0.20.0
+sqlalchemy
+pymysql
+pandas
+python-dotenv
 psycopg2-binary==2.9.3
 
 numpy>=1.18.5
